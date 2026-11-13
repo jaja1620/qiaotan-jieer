@@ -104,6 +104,6 @@ A pure front-end, zero-dependency, zero-install whack-a-mole style office stress
 
 ## 使用提示 / Usage note
 
-英文文件名与仓库内文件名保持一致（含中文），下载后直接双击该 HTML 文件即可开始游戏，无需解压或安装任何东西。
+仓库根目录中的文件名为 `敲谈姐儿_单文件版.html`；Release 页面提供的下载附件为同一文件的 ASCII 命名版本 `qiaotan-jieer_v1.0.0.html`，两者内容与字节完全一致（SHA256 `ad87705d…9e76cfb`）。下载后直接双击即可开始游戏，无需解压或安装任何东西。
 
-The file name is kept as-is (Chinese characters included). After downloading, just double-click the HTML file to play — nothing to unzip or install.
+In the repository root the file is named `敲谈姐儿_单文件版.html`; the downloadable asset on the Release page is the same file under an ASCII name, `qiaotan-jieer_v1.0.0.html`. Both are byte-identical (SHA256 `ad87705d…9e76cfb`). After downloading, just double-click the HTML file to play — nothing to unzip or install.
